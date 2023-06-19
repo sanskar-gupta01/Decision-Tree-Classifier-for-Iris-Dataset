@@ -9,7 +9,7 @@ This repository implements a decision tree classifier for the Iris dataset. It c
 
 The project is organized as follows:
 - `decision_tree.ipynb`: Contains the implementation of the DecisionTree class and other necessary functions for training the decision tree.
-- `Logic.txt`: Contains the logic and my approach to the problem, has explation of every function that I made in the implementation.
+- `Logic.pdf`: Contains the logic and my approach to the problem, has explation of every function that I made in the implementation.
 - `iris.csv`: The dataset file in CSV format.
 - `README.md`: This file.
 
