@@ -24,7 +24,7 @@ The project is organized as follows:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/decision-tree-iris.git
+git clone https://github.com/ssansskarr/Decision-Tree-Classifier-for-Iris-Dataset.git
 ```
 
 2. Navigate to the project directory:
