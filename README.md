@@ -30,16 +30,11 @@ git clone https://github.com/ssansskarr/Decision-Tree-Classifier-for-Iris-Datase
 2. Navigate to the project directory:
 
 ```shell
-cd decision-tree-iris
+cd Decision-Tree-Classifier-for-Iris-Dataset
 ```
 
-3. Install the required dependencies:
 
-```shell
-pip install -r requirements.txt
-```
-
-4. Run the example script to print the decision tree steps:
+3. Run the example script to print the decision tree steps:
 
 ```shell
 python example.py
