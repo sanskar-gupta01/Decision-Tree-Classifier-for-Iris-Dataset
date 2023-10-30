@@ -13,33 +13,6 @@ The project is organized as follows:
 - `iris.csv`: The dataset file in CSV format.
 - `README.md`: This file.
 
-## Requirements
-
-- Python 3.x
-- NumPy
-- Pandas
-
-## Usage
-
-1. Clone the repository:
-
-```shell
-git clone https://github.com/ssansskarr/Decision-Tree-Classifier-for-Iris-Dataset.git
-```
-
-2. Navigate to the project directory:
-
-```shell
-cd Decision-Tree-Classifier-for-Iris-Dataset
-```
-
-
-3. Run the example script to print the decision tree steps:
-
-```shell
-python example.py
-```
-
 ## Results
 
 Running the example script will print the steps for constructing the decision tree for the Iris dataset. Each step includes information about the level, class counts, current entropy, and splitting decision.
